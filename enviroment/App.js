@@ -1,11 +1,12 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
+import Tabs from './components/tabs';
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>ur mom</Text>
-      <StatusBar style="auto" />
+      <Tabs></Tabs>
+      
     </View>
   );
 }
