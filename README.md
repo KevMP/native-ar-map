@@ -7,3 +7,6 @@ To run your project, navigate to the directory and run one of the following npm 
 - npm run web
 
 If it asks you to download any dependencies just run the command it tells you
+
+If you get the error "'expo' is not recognized as an internal or external command,"
+run then 'npm install' command
